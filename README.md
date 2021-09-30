@@ -14,3 +14,10 @@ list() -> creates an empty list unless there is something in the brackets. <br/>
 lapply() -> this is another loop function, where the first argument gives the list objecy to be iterated over whereas the second argument defines an unamed function. The apply loop is easier and faster to use than the for() loop. <br/>
 sapply -> gives more readable outcomes from the lappy() loop. <br/>
 ifelse() -> this is a conditional statement that tests for some logival TRUE/FALSE condition in the data. It can thern perform one of two actions depending on the outcome of the test. <br/>
+<,<= -> is smaller than, is smaller than or equal to. <br/>
+>,>= -> is larger than, is larger than or equal to. <br/>
+>!= -> not equal to. <br/>
+>%in% -> belongs to one of the following, usually followed by a vector of possible values. <br/>
+>& -> is the AND operator and allows you to chain two conditions which must both be met. <br/>
+>! -> not operator, to specify things that should be omitted. <br/>
+>
